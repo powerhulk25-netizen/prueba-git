@@ -1,2 +1,6 @@
-# Mi primer repositorio Git
+# prueba-git
+
+Mi primer repositorio Git
+
 Estoy aprendiendo Git
+
